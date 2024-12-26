@@ -7,9 +7,10 @@ Datábáze do BS100 a BUSE panelů vytvořená podle hry [SIMT MHD](https://simt
 - 1 (Pouze na Evropskou)
 - 2
 - 3
+- 5 (pouze kurzy 01 a 02)
 - 10
 - 13
-- 14
+- 14 (až do Plané)
 - 20
 - 22
 - 23
