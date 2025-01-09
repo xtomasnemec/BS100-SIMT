@@ -1,0 +1,300 @@
+0	Žádné inform	hUa4000120700
+		zM0
+		aI1 
+		aI2 
+1	Pozor kapsáø	hUf40002201072010920108201102011220111
+		zM Pozor na kapsáøe ! Beware of Pickpockets ! Achtung Taschendiebstahl !
+		aI1POZOR$0ABEWARE$0AVORSICHT,
+		aI2NA KAPSÁØE!$0AOF PICKPOCKETS!$0ATASCHENDIEBE!
+2	Nevystupujte	hUc4000221002
+		zM Prosím nevystupujte ! Do not get off ! Nicht aussteigen !
+		aI1NEVYSTUPUJTE!$0ADON'T GET OFF!$0ANICHT AUSSTEIGEN!
+		aI2ZDE NENÍ ZASTÁVKA$0AHERE ISN'T A STOP$0AHIER IST KEINE HALT
+3	Post.do vozu	hUg400022110521003
+		zM Prosím, postupte do vozu !
+		aI1 
+		aI2 
+4	Uvoln.výhled	hUc400022110521004
+		zM0
+		aI1 
+		aI2 
+5	Neop.o dveøe	hUc4000221005
+		zM Prosím, neopírejte se o dveøe !      à     Do not lean against the doors !
+		aI1 
+		aI2 
+6	Post.dozadu	hUc400022111021006
+		zM0
+		aI1 
+		aI2 
+7	Nást.1.dveø.	hUe400022010520076
+		zM0
+		aI1 
+		aI2 
+8	Zadní koèár.	hUe40002201052007620078
+		zM0
+		aI1 
+		aI2 
+9	Výstup koèár	hUg4000220121
+		zM Prosím, signalizujte vèas nástup a výstup s koèárkem !
+		aI1 
+		aI2 
+10	Li.nác.koneè	hUg400022001730LLL200291NNNN400991KKKK
+		zM0
+		aI1 
+		aI2 
+11	Nástup všemi	hUg400022110521011
+		zM0
+		aI1 
+		aI2 
+12	Plošina	hUg400082110521012
+		zM0 Prosím pozor na výsuvnou plošinu !
+		aI1 
+		aI2 
+13	Vozík	hUg400082110521013
+		zM Prosím, uvolnìte místo pro vozík    $AF     Empty the room in favour of wheelchair, please.
+		aI1 
+		aI2 
+14	Koèárek	hUg400082110521014
+		zM Prosím, uvolnìte místo pro koèárek.      Empty the room in favour of pram, please.
+		aI1 
+		aI2 
+15	Kolo nástup	hUg400022101521454
+		zM0
+		aI1 
+		aI2 
+16	Zavazadla	hUc400022101621454
+		zM0 Prosím, neodkládejte zavazadla na sedadlo !
+		aI1 
+		aI2 
+17	Pokr.L1 VoMe	hUg400022111021017
+		zM Jede po trase linky  1  k zastávce Tylova  a do vozovny Medlánky !
+		aI1Jede po trase lin. 1
+		aI2do vozovny Medlánky!
+18	Pokr.L1 VoPi	hUg400022111021018
+		zM Jede po trase linky  1  k zastávce  Lipová  a do vozovny Pisárky !
+		aI1Jede po trase lin. 1
+		aI2do vozovny Pisárky!
+19	Služ.Nenast.	hUe4000221019400022101940001
+		zM0
+		aI1 
+		aI2 
+20	Revize	hUc400022111021020
+		zM Prosím, pøipravte si jízdenky ke kontrole.     Set your tickets up for inspection, please. 
+		aI1 
+		aI2 
+21	Batohy dolù	hUc400022111021021
+		zM Prosím, sundejte své batohy !    Take off your backpacks please !
+		aI1 
+		aI2 
+22	Uvoln.místa	hUc400022012221454
+		zM Prosím, uvolnìte sedadla starším !     Empty the seats in elder's favour, please !
+		aI1 
+		aI2 
+23	Bez náhubku	hUg4000220106
+		zM Pes bez náhubku musí ihned vystoupit !
+		aI1 
+		aI2 
+24	S jídlem	hUg4000221024
+		zM Cestující s jídlem nebo s pitím v ruce musí ihned vystoupit !      No drinking or eating in the vehicle !
+		aI1 
+		aI2 
+25	S bruslemi	hUg4000221025
+		zM Cestující s bruslemi na nohou musí ihned vystoupit !
+		aI1 
+		aI2 
+26	Se zmrzlinou	hUg4000221026
+		zM Cestující se zmrzlinou v ruce musí ihned vystoupit !      No drinking or eating in the vehicle!
+		aI1 
+		aI2 
+27	Signalizace	hUc400022102721454
+		zM Prosím, nepoužívejte signalizaci zbyteènì !
+		aI1 
+		aI2 
+28	Výstup 2.dv.	hUc400022111021028
+		zM0
+		aI1 
+		aI2 
+29	Klid !!!	hUc400022102921454
+		zM Prosím o klid ve vozidle !      à     Silence !  Do behave yourself !      à     Sei still !  Sich anständig betragen !
+		aI1 
+		aI2 
+30	Obsazeno	hUg4000221030
+		zM Vùz je obsazen, uvolnìte prostor dveøí !
+		aI1 
+		aI2 
+31	Obsaz.násl.v	hUg4000221031
+		zM0
+		aI1 
+		aI2 
+32	Pok.p.L.smìr	hUg40002200102014330LLL200291NNNN400991KKKK
+		zM0
+		aI1 $0A $0A 
+		aI2 $0A $0A 
+33	Èeká pøípoj	hUg400022001020085
+		zM Èekáme na pøípoj      à     We are waiting for connection.
+		aI1 
+		aI2 
+34	Èeká na èas	hUg400022001020086
+		zM Èekáme na èas odjezdu podle jízdního øádu      à     We are waiting for scheduled departure.
+		aI1 
+		aI2 
+35	Poruch.èekej	hUc400022111021035
+		zM Prosím èekejte - Please wait - Bitte warten
+		aI1 
+		aI2 
+36	Pøekáž.èekej	hUc400022111021036
+		zM Prosím èekejte - Please wait - Bitte warten
+		aI1 
+		aI2 
+37	Nehoda èekej	hUc400022111021037
+		zM Prosím èekejte - Please wait - Bitte warten
+		aI1 
+		aI2 
+38	Výmìna pøest	hUg40002211102103821167
+		@0979
+		zM Prosím pøestupte do náhradního vozidla      à     Please change onto substitutive vehicle.
+		aI1 
+		aI2 
+39	Použij autob	hUg40002211102103921167
+		@0979
+		zM Prosím pøestupte do náhradního autobusu    $F2    Please change onto relief bus.
+		aI1 
+		aI2 
+40	Porucha vyst	hUg40002211102104021167
+		@0979
+		zM Prosím vystupte - Get off please - Bitte aussteigen
+		aI1 
+		aI2 
+41	Pøekážk.vyst	hUg40002211102104121167
+		@0979
+		zM Prosím vystupte - Get off please - Bitte aussteigen
+		aI1 
+		aI2 
+42	Nehoda  vyst	hUg40002211102104221167
+		@0979
+		zM Prosím vystupte - Get off please - Bitte aussteigen
+		aI1 
+		aI2 
+43	Koneè.násled	hUg40002211102104321167
+		@0979
+		zM Prosím, pøestupte na následující spoj      à     Please change onto next connection vehicle.
+		aI1 
+		aI2 
+44	Koneè.vystup	hUc4000221044
+		@0000
+		zM Prosím vystupte - Please get off - Aussteigen bitte
+		aI1KONEÈNÁ STANICE$0ATERMINUS$0AENDSTATION
+		aI2Prosím vystupte$0APlease get off$0AAussteigen bitte
+45	Kont.jíz.øid	hUe40002211052104521454
+		zM0
+		aI1 
+		aI2 
+46	Signal.kolo	hUg4000221046
+		zM0 Prosím, signalizujte nástup a výstup s jízdním kolem øidièi !
+		aI1 
+		aI2 
+47	PolicieVýstr	hUc4000221047
+		zM Osoby porušující pøedpisy musí okamžitì vystoupit !  Jinak pøivoláme policii  !
+		aI1 
+		aI2 
+48	PolicieÈekám	hUg400022111021048
+		zM Èekáme na pøíjezd policie  !  We are waiting for Police Assistance !
+		aI1Èekáme na policii !
+		aI2Waiting for Police !
+49	Špinavý odìv	hUc4000221149
+		hUd4000221049
+		zM Osoby ve špinavém odìvu musí okamžitì vystoupit !
+		aI1 
+		aI2 
+50	Tlaè.dveøe	hUg400022111021050
+		zM K otevøení dveøí použijte zelené tlaèítko      à     Push the green button to open the door.
+		aI1 
+		aI2 
+51	Trasa ND	hUg400022111021051
+		zM Pojedeme po trase náhradní dopravy      à     Substitutive route is following.
+		aI1 
+		aI2 
+52	Kolo souhlas	hUg4000221052
+		zM0 Nástup s jízdním kolem je možný pouze se souhlasem øidièe !
+		aI1 
+		aI2 
+53	Pøestup na L	hUg40002211102105321454
+		@0979
+		zM Prosím pøestupte do vozidla pravidelné linky      à     Change onto ordinary connection vehicle.
+		aI1 
+		aI2 
+54	Posila, násl	hUg4000221054
+		zM Následuje pravidelný spoj podle jízdního øádu      à     Ordinary vehicle is following.
+		aI1 
+		aI2 
+55	Násl.posila	hUg400022111021055
+		zM Následuje posilový spoj      à     Auxiliary vehicle is following.
+		aI1 
+		aI2 
+56	Za chybìjící	hUg4000220082
+		zM0
+		aI1 
+		aI2 
+57	Auto.dveøe	hUg40002211102105721050
+		zM0
+		aI1 
+		aI2 
+58	Signal.vèas	hUc4000221058
+		zM Požadavek na zastavení v zastávce na znamení signalizujte vèas !
+		aI1 
+		aI2
+59	Kouøení zast	hUe4000221059
+		zM0
+		aI1 
+		aI2
+60	Nedržte dv.	hUg4000221060
+		zM Nebraòte zavøení dveøí, vùz je pøipraven k odjezdu.
+		aI1 
+		aI2
+61	Pøes Meèkov	hUf400022111021061
+		aI2Pøes Meèkov$0AThrough Meèkov$0AÜber Meèkov
+		zM à  Jede pøes Meèkov      à     Is going through Meèkov
+		aI1 
+		aI2 
+62	Pøes Hvozdec	hUf400022111021062
+		aI2Pøes Hvozdec$0AThrough Hvozdec$0AÜber Hvozdec
+		zM à  Jede pøes Hvozdec      à     Is going through Hvozdec
+		aI1 
+		aI2 
+70	NewsLetter	hUb21095
+		zM Chcete dostávat aktuální informace o zmìnách v dopravì pøímo do vaší e-mailové schránky? Zaregistrujte si svoji e-mailovou adresu na webu dpmb.cz pod odkazem NewsLetter.
+		aI1 
+		aI2 
+71	Facebook	hUb21096
+		zM Chcete mít pøehled o aktuálním zpoždìní a mimoøádných událostech v dopravì? Sledujte náš profil na sociálních sítích Facebook a Twitter DPMB aktuálnì.
+		aI1 
+		aI2 
+75	AJ koneèná	hUc4000221065
+		zM The destination has been reached. Dear passengers, please exit the vehicle.
+		aI1 
+		aI2
+76	AJ Klid poli	hUc4000221066
+		zM Please remain quiet. Otherwise, the vehicle will stop and the police will be called.
+		aI1 
+		aI2
+77	AJ Nedrž dv.	hUg4000221067
+		zM Do not prevent the door from closing. The vehicle is ready for departure. 
+		aI1 
+		aI2
+80	PREVENTISTI	hUf400022111021080
+		zM0
+		aI1 
+		aI2 
+89	EPIS	hUc25401300183000530026
+		zM EPIS verze 18 5 26
+90	Dìkování	hUc20489
+		zM Jsme DPMB a jezdíme pro Vás. Dìkujeme, že využíváte naše služby.
+		aI1 
+		aI2 
+91	Dìkování 2	hUb20575
+95	Test vnitøní	hUb40010400104001040010
+96	Test venkovn	hUd40010400104001040010
+97	Test 1. venk	hUh40010400104001040010
+98	Test kabina	hUa40010400104001040010
+99	verze 1801	hUa4000840099300184009930001
+		zM Ruèní informace verze 1801
