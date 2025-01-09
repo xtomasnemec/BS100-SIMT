@@ -223,6 +223,7 @@
 			05	hUc200021XXXX4009920014
 				zM Koneèná zastávka -Terminus - Endstation
 				aI1KONEÈNÁ ZASTÁVKA$0ATERMINUS$0AENDSTATION
+				z978
 			11	hUb40001400991XXXX400992001440099200084009920454
 				zM Prosím vystupte - Please get off - Aussteigen bitte
 				aI1DÌKUJEME$0ATHANK YOU$0ADANKE SEHR
