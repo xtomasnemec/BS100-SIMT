@@ -26,6 +26,7 @@ Před nahráním si zálohujte všechny databáze (.bbd. .bbc .hex)
 - 42
 - 61
 - 99
+- x1 (381)
 - x3 (383)
 - A (880)
 - Q (881)
@@ -33,8 +34,9 @@ Před nahráním si zálohujte všechny databáze (.bbd. .bbc .hex)
 
 
 ## Poděkování
+
+Mara8 za vytvoření hlášení
+
 Tomášovi Fainovi za jeho [hru](https://simt-mhd.net/)
 
 itronyx za skupiny povelů do BS100
-
-Mara8 za pomoc se zprovozněním hlášení a za seznam kódů zastávek
