@@ -3,6 +3,8 @@ Datábáze do BS100 a BUSE panelů vytvořená podle hry [SIMT MHD](https://simt
 
 Před nahráním si zálohujte všechny databáze (.bbd .bbc .hex).
 
+Stahujte první .zip v záložce Releases (nebudou jinak fungovat data do panelu)
+
 ![image](https://simt-mhd.net/img/upload/linky_100max.png)
 
 # Zatím implementované linky:
