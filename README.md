@@ -42,4 +42,4 @@ Mara8 za vytvoření hlášení
 
 Tomášovi Fainovi za jeho [hru](https://simt-mhd.net/)
 
-itronyx za skupiny povelů do BS100
+itronyx za povely do BS100
